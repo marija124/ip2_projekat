@@ -77,4 +77,4 @@ Detaljno objašnjenje svih koraka, rezultata i tumačenja dostupno je u PDF semi
 ---
 
 **Datum:** Jul 2026  
-**Institucija:** Matematički fakultet, Univerzitet u Beogradu
+Matematički fakultet, Univerzitet u Beogradu
