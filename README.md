@@ -43,7 +43,7 @@ Korišćena je **NBA Database** sa Kaggle platforme:
 
 ### Prerequisiti
 ```bash
-pip install pandas scikit-learn numpy matplotlib seaborn kagglehub jupyter
+pip install pandas scikit-learn numpy matplotlib seaborn kagglehub jupyter hdbscan pyclustering
 ```
 
 ### Automatski preuzimanje podataka
